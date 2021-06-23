@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <h4>About Me</h4>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <h4>Github Stats</h4>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leila-U)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Leila's github stats](https://github-readme-stats.vercel.app/api?username=Leila-U)](https://github.com/anuraghazra/github-readme-stats)
 
