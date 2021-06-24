@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h4>Github Stats</h4>
 <a href="https://github.com/Leila-U">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=3&theme=gotham" />
 </a>
 
 <a href="https://youtu.be/dQw4w9WgXcQ">
@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/Leila-U">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Greenie-Beenie&repo=Buy-Green-Website" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Greenie-Beenie&repo=Buy-Green-Website&theme=gotham" />
 </a>
 
 
 <a href="https://github.com/Leila-U">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DSC-UTMap&repo=utmap-website" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DSC-UTMap&repo=utmap-website&theme=gotham" />
 </a>
