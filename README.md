@@ -1,4 +1,4 @@
-### Howdy 👋
+### Howdy! 👋🤠
 
 ## 🌻 About Me
 
