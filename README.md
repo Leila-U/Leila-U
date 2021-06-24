@@ -18,9 +18,9 @@ Busy bee who loves remote sensing, programming, and all music. Currently:
 ## 📈 GitHub Stats
 
 <a href="https://github.com/Leila-U">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=3&theme=vue" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=10&theme=vue&layout=compact" />
 </a>
 
 <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=vue&line_height=27" alt="Leila's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=vue&line_height=24" alt="Leila's GitHub Stats" />
 </a>
