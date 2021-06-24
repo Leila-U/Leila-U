@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 
 <h4>Github Stats</h4>
 <a href="https://github.com/Leila-U">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=10" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=3" />
 </a>
 
 <a href="https://youtu.be/dQw4w9WgXcQ">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=gotham" alt="Leila's GitHub Stats" />
 </a>
 
+<a href="https://github.com/Leila-U">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Leila-U">
+</a>
