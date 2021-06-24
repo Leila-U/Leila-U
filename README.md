@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Leila-U/Leila-U/blob/main/NASAtraj.gif">
+<img align="center" src="http://gph.is/2isAB1h">
 
 ### Howdy! 👋🤠
 
