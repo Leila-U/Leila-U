@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/Leila-U/Leila-U/blob/main/NASAtraj.gif">
+
 ### Howdy! 👋🤠
 
 ## 🌻 About Me
