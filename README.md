@@ -23,5 +23,10 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/Leila-U">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Leila-U">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leila-U&repo=Buy-Green-Website" />
+</a>
+
+
+<a href="https://github.com/Leila-U">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leila-U&repo=utmap-website" />
 </a>
