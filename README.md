@@ -1,9 +1,10 @@
-### Hi there 👋
+### Howdy 👋
 
 ## 🌻 About Me
 
+A busy bee 🐝 who loves remote sensing, programming, and emojis:
 - 🌽 Researching shifting eco-regions under climate change using AWS and parallel programming
-- 🛰️ Looking at the correlation between NDVI and LST in the Dominican Republic using Google Earth Engine and Landsat
+- 🛰️ Looking at the correlation between NDVI and LST in the Dominican Republic using GEE and Landsat
 - 📣 Public Relations Officer at UTM Computer Science Student Community
 - 🌱 Working on [helping people eat local](https://github.com/Greenie-Beenie/Buy-Green-Website)
 - 📫 Reach me at: leila.uy@mail.utoronto.ca
