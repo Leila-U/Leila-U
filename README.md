@@ -7,9 +7,8 @@ A busy bee 🐝 who loves remote sensing, programming, and emojis:
 - 🛰️ Looking at the correlation between NDVI and LST in the Dominican Republic using GEE and Landsat
 - 📣 Public Relations Officer at UTM Computer Science Student Community
 - 🌱 Working on [helping people eat local](https://github.com/Greenie-Beenie/Buy-Green-Website)
-- 📫 Reach me at: leila.uy@mail.utoronto.ca
+- 📫 Reach me at leila.uy@mail.utoronto.ca
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 ## 📈 Github Stats
 
