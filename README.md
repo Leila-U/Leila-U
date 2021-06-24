@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h4>Github Stats</h4>
 <a href="https://github.com/Leila-U">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=2" />
 </a>
 
 <a href="https://youtu.be/dQw4w9WgXcQ">
