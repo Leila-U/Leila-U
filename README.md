@@ -13,9 +13,9 @@ First coding experience was using Swift to program a copy of the Scott Pilgram g
 ## 📈 Github Stats
 
 <a href="https://github.com/Leila-U">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=3&theme=omni" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=3&theme=radical" />
 </a>
 
 <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=omni&line_height=27" alt="Leila's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=radical&line_height=27" alt="Leila's GitHub Stats" />
 </a>
