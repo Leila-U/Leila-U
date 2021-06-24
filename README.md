@@ -1,12 +1,11 @@
 <!---
 <img align="right" width="200" src="https://media.giphy.com/media/13i9ZtOyDp7UK4/giphy.gif">
 -->
+# Howdy! 👋🤠
 
 <a>
     <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=yoomes-bond" />
 </a>
-
-### Howdy! 👋🤠
 
 ## 🌻 About Me
 First coding experience was using Swift to program a copy of the Scott Pilgram game. Now, I'm:
