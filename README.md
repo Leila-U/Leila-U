@@ -4,7 +4,7 @@
 # Howdy! 👋🤠
 
 <a>
-    <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=yoomes-bond&width=300" />
+    <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=yoomes-bond&width=300&count=4" />
 </a>
 
 ## 🌻 About Me
