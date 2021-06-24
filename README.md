@@ -8,7 +8,6 @@ A busy bee who loves remote sensing, programming, and emojis:
 - 📣 Public Relations Officer at UTM Computer Science Student Community
 - 🌱 Working on [helping people eat local](https://github.com/Greenie-Beenie/Buy-Green-Website)
 - 📫 Reach me at leila.uy@mail.utoronto.ca
-- 😄 Pronouns: she/her
 
 ## 📈 Github Stats
 
