@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h4>About Me</h4>
+## :godmode: About Me
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
-<h4>Github Stats</h4>
+## 📈 Github Stats
+
 <a href="https://github.com/Leila-U">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=3&theme=vue" />
 </a>
