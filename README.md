@@ -21,12 +21,3 @@ Here are some ideas to get you started:
 <a href="https://youtu.be/dQw4w9WgXcQ">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=vue" alt="Leila's GitHub Stats" />
 </a>
-
-<a href="https://github.com/Leila-U">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Greenie-Beenie&repo=Buy-Green-Website&theme=vue" />
-</a>
-
-
-<a href="https://github.com/Leila-U">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DSC-UTMap&repo=utmap-website&theme=vue" />
-</a>
