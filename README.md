@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/Leila-U">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leila-U&repo=Buy-Green-Website" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Greenie-Beenie&repo=Buy-Green-Website" />
 </a>
 
 
 <a href="https://github.com/Leila-U">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leila-U&repo=utmap-website" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DSC-UTMap&repo=utmap-website" />
 </a>
