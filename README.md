@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 <h4>Github Stats</h4>
 
-[![Leila's github stats](https://github-readme-stats.vercel.app/api?username=Leila-U)](https://github.com/anuraghazra/github-readme-stats)
+[![Leila's github stats](https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
