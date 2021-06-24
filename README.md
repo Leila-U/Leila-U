@@ -14,12 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <h4>Github Stats</h4>
-
-
-[![Leila's github stats](https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-<a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U" />
+<a href="https://github.com/Leila-U">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=10" />
 </a>
 
 <a href="https://youtu.be/dQw4w9WgXcQ">
