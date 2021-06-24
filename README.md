@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=vue" alt="Leila's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=vue&line_height=27" alt="Leila's GitHub Stats" />
 </a>
