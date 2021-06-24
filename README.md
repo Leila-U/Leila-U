@@ -15,7 +15,7 @@ Busy bee who loves remote sensing, programming, and all music. Currently:
 - 🌱 Working on [helping people eat local](https://github.com/Greenie-Beenie/Buy-Green-Website)
 - 📫 Reach me at leila.uy@mail.utoronto.ca
 
-## 📈 Github Stats
+## 📈 GitHub Stats
 
 <a href="https://github.com/Leila-U">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=3&theme=vue" />
