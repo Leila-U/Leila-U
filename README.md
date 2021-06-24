@@ -1,5 +1,7 @@
 <img align="right" width="200" src="https://media.giphy.com/media/13i9ZtOyDp7UK4/giphy.gif">
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yoomes-bond)
+
 ### Howdy! 👋🤠
 
 ## 🌻 About Me
@@ -13,9 +15,9 @@ First coding experience was using Swift to program a copy of the Scott Pilgram g
 ## 📈 Github Stats
 
 <a href="https://github.com/Leila-U">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=3&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=3&theme=vue" />
 </a>
 
 <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=buefy&line_height=27" alt="Leila's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=vue&line_height=27" alt="Leila's GitHub Stats" />
 </a>
