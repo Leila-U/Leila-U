@@ -10,7 +10,7 @@
 ## 🌻 About Me
 Busy bee who loves remote sensing, programming, and all music. Currently:
 - 🍑 Researching shifting ecoregions due to climate change w/ AWS and parallel R
-- 🛰️ Studying the correlation between NDVI and LST in the DR using GEE and Landsat
+- 🛰️ Studying the correlation between NDVI and LST in DR using GEE and Landsat
 - 📣 Public Relations Officer at UTM Computer Science Student Community
 - 🌱 Working on [helping people eat local](https://github.com/Greenie-Beenie/Buy-Green-Website)
 - 📫 Reach me at leila.uy@mail.utoronto.ca
