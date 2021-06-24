@@ -1,5 +1,4 @@
-<img src="https://github.com/Leila-U/Leila-U/blob/main/bi_kirby.jpg">
-Fig. 1: Kirby edits of my friends
+<img src="https://media.giphy.com/media/13i9ZtOyDp7UK4/giphy.gif">
 
 ### Howdy! 👋🤠
 
