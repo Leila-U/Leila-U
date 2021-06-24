@@ -1,3 +1,7 @@
+<!---
+<img align="right" width="200" src="https://media.giphy.com/media/13i9ZtOyDp7UK4/giphy.gif">
+-->
+
 <a align="right">
     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yoomes-bond)
 </a>
