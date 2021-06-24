@@ -1,4 +1,4 @@
-<img src="https://github.com/Leila-U/Leila-U/blob/main/procrastinate.gif" width="1000">
+<img src="https://github.com/Leila-U/Leila-U/blob/main/googledino.gif">
 
 ### Howdy! 👋🤠
 
