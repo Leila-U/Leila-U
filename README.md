@@ -2,8 +2,10 @@
 
 ## 🌻 About Me
 
-- 🔭 I’m currently working on [helping people eat local](https://github.com/Greenie-Beenie/Buy-Green-Website)
-- 🌱 I’m currently learning ...
+- 🌽 Researching shifting eco-regions under climate change using AWS and parallel programming
+- 🛰️ Looking at the correlation between Land Surface Temperature and Normalized Differential Vegetation Index using Google Earth Engine and Landsat
+- 📣 Public Relations Officer at UTM Computer Science Student Community
+- 🌱 Working on [helping people eat local](https://github.com/Greenie-Beenie/Buy-Green-Website)
 - 📫 Reach me at: leila.uy@mail.utoronto.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
