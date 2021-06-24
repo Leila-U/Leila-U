@@ -3,8 +3,7 @@
 ### Howdy! 👋🤠
 
 ## 🌻 About Me
-
-A busy bee who loves remote sensing, programming, and emojis:
+First coding experience was using Swift to program a copy of the Scott Pilgram game. Now, I'm a busy bee who loves remote sensing, programming, and emojis:
 - 🍑 Researching shifting eco-regions under climate change using AWS and parallel programming
 - 🛰️ Looking at the correlation between NDVI and LST in the Dominican Republic using GEE and Landsat
 - 📣 Public Relations Officer at UTM Computer Science Student Community
