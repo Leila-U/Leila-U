@@ -8,7 +8,7 @@
 </a>
 
 ## 🌻 About Me
-Busy bee who loves remote sensing, programming, and music. Currently:
+A busy bee who loves remote sensing, programming, and music. Currently:
 - 🍑 Researching shifting ecoregions due to climate change w/ AWS & parallel R
 - 🛰️ Studying the correlation between [NDVI & LST in DR using GEE & Landsat](https://github.com/Leila-U/GEE)
 - 📣 Public Relations Officer at UTM Computer Science Student Community
