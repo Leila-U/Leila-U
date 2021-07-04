@@ -8,12 +8,12 @@
 </a>
 
 ## 🌻 About Me
-Busy bee who loves remote sensing, programming, and all music. Currently:
-- 🍑 Researching shifting ecoregions due to climate change w/ AWS and parallel R
-- 🛰️ Studying the correlation between [NDVI and LST in DR using GEE and Landsat](https://github.com/Leila-U/GEE)
+Busy bee who loves remote sensing, programming, and music. Currently:
+- 🍑 Researching shifting ecoregions due to climate change w/ AWS & parallel R
+- 🛰️ Studying the correlation between [NDVI & LST in DR using GEE & Landsat](https://github.com/Leila-U/GEE)
 - 📣 Public Relations Officer at UTM Computer Science Student Community
-- 🌱 Working on [helping people eat local](https://github.com/Greenie-Beenie/Buy-Green-Website)
-- 💻 Learning [shell scripting and parallel batch jobs](https://github.com/Leila-U/GRASS-bash) in GRASS GIS
+- 💻 Learning [shell scripting & parallel batch jobs](https://github.com/Leila-U/GRASS-bash) in GRASS GIS
+- 🌱 Working on a website to [help people eat local](https://github.com/Greenie-Beenie/Buy-Green-Website)
 - 📫 Reach me at leila.uy@mail.utoronto.ca
 
 ## 📈 GitHub Stats
