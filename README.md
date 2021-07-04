@@ -13,7 +13,7 @@ Busy bee who loves remote sensing, programming, and all music. Currently:
 - 🛰️ Studying the correlation between [NDVI and LST in DR using GEE and Landsat](https://github.com/Leila-U/GEE)
 - 📣 Public Relations Officer at UTM Computer Science Student Community
 - 🌱 Working on [helping people eat local](https://github.com/Greenie-Beenie/Buy-Green-Website)
-- 💻 Learning [shell scripting in GRASS GIS](https://github.com/Leila-U/GRASS-bash)
+- 💻 Learning [shell scripting and parallel batch jobs] in GRASS GIS(https://github.com/Leila-U/GRASS-bash)
 - 📫 Reach me at leila.uy@mail.utoronto.ca
 
 ## 📈 GitHub Stats
