@@ -9,11 +9,11 @@
 
 ## 🌻 About Me
 A busy bee who loves remote sensing, programming, and music. Currently:
-- 🍑 Researching shifting ecoregions due to climate change w/ AWS & parallel R
+- 🍑 Researching [shifting ecoregions due to climate change](https://github.com/UTMSustAg) w/ AWS & parallel R
 - 🛰️ Studying the correlation between [NDVI & LST in DR using GEE & Landsat](https://github.com/Leila-U/GEE)
 - 📣 Public Relations Officer at UTM Computer Science Student Community
+- 👩‍💻 Teaching Assistant for CSC108 at UTM for Fall 2021
 - 💻 Learning [shell scripting & parallel batch jobs](https://github.com/Leila-U/GRASS-bash) in GRASS GIS
-- 🌱 Working on a website to [help people eat local](https://github.com/Greenie-Beenie/Buy-Green-Website)
 - 📫 Reach me at leila.uy@mail.utoronto.ca
 
 ## 📈 GitHub Stats
