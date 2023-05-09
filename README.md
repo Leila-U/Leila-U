@@ -6,6 +6,10 @@
 </a>
 
 ## ✍️ About My Work
+<a>
+    <img align="right" src="https://github.com/Leila-U/Leila-U/blob/main/bike.jpg" />
+</a>
+
 A busy bee who loves geography and programming:
 - 👩‍🎓 MSc. in Geography at University of Toronto
 - 👩‍💻 Research Assistant in climate change, agriculture, epidemiology, etc. 
@@ -18,17 +22,7 @@ My hobbies include, but not limited to:
 - ⛰️ Hiking
 - 👩‍🎨 Painting
 - 🧶 Needleworking
+- 📷 Photographing
 - 🎥 Binge watching
-- 📖 Reading -- \[Currently] Mental Traps: The Overthinking's Guide to a Happier Life & The Soulmate Equation 
-
-<!-- ## 📈 GitHub Stats
-
-<a href="https://github.com/Leila-U">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=10&theme=vue&layout=compact" />
-</a>
-
-<!--
-<a href="https://youtu.be/dQw4w9WgXcQ">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=vue&line_height=24" alt="Leila's GitHub Stats" />
-</a>
+- 📖 Reading -- \[Currently] Mental Traps: The Overthinker's Guide to a Happier Life & The Soulmate Equation 
 
