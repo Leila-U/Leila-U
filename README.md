@@ -7,7 +7,7 @@
 
 ## 🌻 About Me
 A busy bee who loves GIS, programming, and photography:
-- 🍇 Researching [shifting ecoregions due to climate change](https://github.com/UTMSustAg) w/ AWS & parallel R
+- 🍇 Researching shifting ecoregions due to climate change w/ AWS & parallel R
 - 📣 Public Relations Officer at UTM Computer Science Student Community
 - 👩‍💻 Teaching Assistant for CSC108/CSC148 at UTM
 - 📫 Reach me at leila.uy@mail.utoronto.ca
