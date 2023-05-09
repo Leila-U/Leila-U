@@ -19,6 +19,8 @@ A busy bee who loves geography and programming:
 ## 🌻 About Me
 My hobbies include, but not limited to:
 - 🚴‍♀️ Biking
+    - **Longest:** Spencer Smith, Burlington -> Harbourfront, Toronto (60km)
+    - **Goal:** Toronto -> Niagara Falls (138km)
 - ⛰️ Hiking
 - 👩‍🎨 Painting
 - 🧶 Needleworking
