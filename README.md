@@ -1,18 +1,27 @@
 # Howdy! 👋🤠
 
 <a>
-    <img align="right" width="200" src="https://github.com/Leila-U/Leila-U/blob/main/PC220527.JPG">
+    <img align="top" width="500" src="https://github.com/Leila-U/Leila-U/blob/main/procrastinate.gif">
     <!--<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=yoomes-bond&width=300&count=4" />-->
 </a>
 
-## 🌻 About Me
-A busy bee who loves GIS, programming, and photography:
-- 🍇 Researching shifting ecoregions due to climate change w/ AWS & parallel R
-- 📣 Public Relations Officer at UTM Computer Science Student Community
-- 👩‍💻 Teaching Assistant for CSC108/CSC148 at UTM
+## ✍️ About My Work
+A busy bee who loves geography and programming:
+- 👩‍🎓 MSc. in Geography at University of Toronto
+- 👩‍💻 Research Assistant in climate change, agriculture, epidemiology, etc. 
+- 👩‍🏫 Teaching Assistant (prev. CSC108/148)
 - 📫 Reach me at leila.uy@mail.utoronto.ca
 
-## 📈 GitHub Stats
+## 🌻 About Me
+My hobbies include, but not limited to:
+- 🚴‍♀️ Biking
+- ⛰️ Hiking
+- 👩‍🎨 Painting
+- 🧶 Needleworking
+- 🎥 Binge watching
+- 📖 Reading -- \[Currently] Mental Traps: The Overthinking's Guide to a Happier Life & The Soulmate Equation 
+
+<!-- ## 📈 GitHub Stats
 
 <a href="https://github.com/Leila-U">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leila-U&langs_count=10&theme=vue&layout=compact" />
@@ -22,4 +31,4 @@ A busy bee who loves GIS, programming, and photography:
 <a href="https://youtu.be/dQw4w9WgXcQ">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Leila-U&show_icons=true&theme=vue&line_height=24" alt="Leila's GitHub Stats" />
 </a>
--->
+
