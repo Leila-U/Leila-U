@@ -18,13 +18,14 @@ A busy bee who loves geography and programming:
 
 ## 🌻 About Me
 My hobbies include, but not limited to:
-- 🚴‍♀️ Biking
+- 🚴‍♀️ Bikes
     - **Longest:** Spencer Smith, Burlington -> Harbourfront, Toronto (60km)
     - **Goal:** Toronto -> Niagara Falls (138km)
-- ⛰️ Hiking
-- 👩‍🎨 Painting
-- 🧶 Needleworking
-- 📷 Photographing
-- 🎥 Binge watching
-- 📖 Reading -- \[Currently] Mental Traps: The Overthinker's Guide to a Happier Life & The Soulmate Equation 
+- ⛰️ Hikes
+- 👩‍🎨 Watercolours
+- 🧶 Needleworks
+- 📷 Photography
+- 🎥 Movies & Shows
+- 🌹 Gardens
+- 📖 Books -- \[Currently] Mental Traps: The Overthinker's Guide to a Happier Life & The Soulmate Equation 
 
