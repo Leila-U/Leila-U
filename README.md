@@ -1,7 +1,7 @@
 # Howdy! 👋🤠
 
 <a>
-    <img align="top" width="500" src="https://github.com/Leila-U/Leila-U/blob/main/procrastinate.gif">
+    <img align="top" src="https://github.com/Leila-U/Leila-U/blob/main/TTC_Banner.png">
     <!--<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=yoomes-bond&width=300&count=4" />-->
 </a>
 
