@@ -6,9 +6,9 @@
 </a>
 
 ## ✍️ About My Work
-<a>
+<!-- <a>
     <img align="right" src="https://github.com/Leila-U/Leila-U/blob/main/bike.jpg" />
-</a>
+</a> -->
 
 A busy bee who loves geography and programming:
 - 👩‍🎓 MSc. in Geography at University of Toronto
