@@ -13,13 +13,13 @@
 A busy bee who loves geography and programming:
 - 👩‍🎓 MSc. in Geography at University of Toronto
 - 👩‍💻 Research Assistant in climate change, agriculture, epidemiology, etc. 
-- 👩‍🏫 Teaching Assistant (prev. CSC108/148)
+- 👩‍🏫 Teaching Assistant
 - 📫 Reach me at leila.uy@mail.utoronto.ca
 
 ## 🌻 About Me
 My hobbies include, but not limited to:
 - 🚴‍♀️ Bikes
-    - **Longest:** Spencer Smith, Burlington -> Harbourfront, Toronto (60km)
+    - **Longest:** Toronto -> Burlington (60km)
     - **Goal:** Toronto -> Niagara Falls (138km)
 - ⛰️ Hikes
 - 👩‍🎨 Watercolours
@@ -27,5 +27,5 @@ My hobbies include, but not limited to:
 - 📷 Photography
 - 🎥 Movies & Shows
 - 🌹 Gardens
-- 📖 Books -- \[Currently] Mental Traps: The Overthinker's Guide to a Happier Life & The Soulmate Equation 
+- 📖 Booksn 
 
